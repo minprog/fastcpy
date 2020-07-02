@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/minprog/exercises.git
+	branch = main
+	commit = dd16dc3f571d529af2978f24351a4799b1fc00b0
+	parent = ba6f4f81a1b9f5f4495a3078d2415a08b5249e84
+	method = merge
+	cmdver = 0.4.1
